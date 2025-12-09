@@ -38,7 +38,7 @@ pip install python-dotenv pyTelegramBotAPI huggingface-hub
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/ваш-username/tattoo-bot.git
+git clone https://github.com/Katerok27153/tattoo-bot.git
 cd tattoo-bot
 ```
 
